@@ -1,0 +1,10 @@
+.form-login{
+    width: 25%;
+    text-align: center;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+}
+.form-login button{
+    margin: 15px;
+}
